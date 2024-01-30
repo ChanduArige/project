@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+    background-color: aqua;
+
+}
+h1{
+    font-size: 60px;
+    font-style: italic;
+}
+input{
+    font-size: 50px;
+    border-radius: 20px;
+}
+table{
+    position: relative;
+    left: 700px;
+}
+td{
+    font-size: 40px;
+}
+button{
+    position: relative;
+    top: 30px;
+    font-size: 80px;
+    border-radius:8px ;
+    margin: 20px;
+}
+
+.countdown{
+    display:flex;
+    justify-content: center;
+    
+}
+.head{
+    margin:70px;
+    font-size: 30px;
+}
+.time{
+    font-size: 100px;
+    background-color: black;
+    color: whitesmoke;
+    width: 200px;
+    margin: 80px;
+
+}
+
+
